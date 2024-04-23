@@ -5,7 +5,7 @@ A simple Python script to find subdomains using a wordlist.
 Subdomain Finder is a Python script that allows you to discover subdomains of a given domain by using a wordlist. It utilizes DNS resolution to check if subdomains exist for the specified domain.
 
 ## Usage
-```python
+```
 pip3 install -r requirements.txt
 
 python3 subdomain_finder.py <example.com> <subdomainlist>
